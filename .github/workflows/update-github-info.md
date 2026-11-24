@@ -46,5 +46,5 @@ If either source cannot be fetched or the required repository files are
 unavailable, use `report_incomplete` and explain what was inaccessible. If the
 sources contain no useful, verifiable update or the page needs no meaningful
 change, use `noop` with a brief reason. When you make a meaningful change,
-propose it through `create-pull-request` for Mona to review; never write
+Open a pull request for Mona to review; never write
 directly to `main`.
